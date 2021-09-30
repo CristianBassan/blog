@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Mis Proyectos
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Mis fuentes de motivación, proyectos finalizados y en proceso...'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
