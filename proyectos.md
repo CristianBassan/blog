@@ -1,7 +1,7 @@
 ---
 title: Mis Proyectos
 layout: landing
-description: 'Mis fuentes de motivación </b>proyectos finalizados y en proceso'
+description: 'Mis fuentes de motivación<br />proyectos finalizados y en proceso'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
