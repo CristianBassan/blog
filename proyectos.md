@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Presentación</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Aquí una pequeña presentación de los proyectos que ilustran mi camino al día de hoy, cada uno de ellos con su distintiva complejidad y aplicación del conocimiento.</p>
 	</div>
 </section>
 
@@ -28,11 +28,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Volante para PC</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Un volante para PC con FFB (Fuerza de Retroalimentación) de diseño propio y piezas recicladas.</p>
 				<ul class="actions">
-					<li><a href="sobremi.html" class="button">Learn more</a></li>
+					<li><a href="sobremi.html" class="button">Ver más</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,9 +44,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Silla de ruedas eléctrica</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>La silla de ruedas eléctrica importada de una persona se averió y, en conjunto con la el Departamento de Impresión 3D de la UNNE, se desarrolló el circuito controlador con piezas fácilmente reparables y que se consiguen en nuestro país.</p>
 				<ul class="actions">
 					<li><a href="sobremi.html" class="button">Learn more</a></li>
 				</ul>
