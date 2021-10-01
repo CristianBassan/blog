@@ -3,7 +3,7 @@ layout: page
 title: Sobre mí
 description: Mi historia
 image: assets/images/pic01.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
