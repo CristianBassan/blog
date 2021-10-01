@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>Un volante para PC con FFB (Fuerza de Retroalimentación) de diseño propio y piezas recicladas, creado para competencias virtuales.</p>
 				<ul class="actions">
-					<li><a href="volante.html" class="button">Ver más</a></li>
+					<li><a href="proyectos/volante.html" class="button">Ver más</a></li>
 				</ul>
 			</div>
 		</div>
