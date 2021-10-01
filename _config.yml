@@ -4,7 +4,7 @@ subtitle: Maker
 email: cris_ba10@hotmail.com
 description: Estudiante de Ingeniería Electromecánica
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-url: https://cristianbassan.github.io # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 author:
 street_address: 
 city: Resistencia
