@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Volante
 description: Mi historia
 image: assets/images/pic01.jpg
