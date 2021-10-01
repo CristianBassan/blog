@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Volante
 description: Mi historia
 image: assets/images/volante/WhatsApp Image 2021-10-01 at 2.40.39 PM.jpeg
