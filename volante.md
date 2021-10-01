@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Sobre mí
+layout: post
+title: Volante
 description: Mi historia
 image: assets/images/pic01.jpg
 nav-menu: false
