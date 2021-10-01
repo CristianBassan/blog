@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="sobremi.html" class="image">
+		<a href="volante.html" class="image">
 			<img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Image 2021-10-01 at 2.40.39 PM.jpeg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>Un volante para PC con FFB (Fuerza de Retroalimentación) de diseño propio y piezas recicladas, creado para competencias virtuales.</p>
 				<ul class="actions">
-					<li><a href="sobremi.html" class="button">Ver más</a></li>
+					<li><a href="volante.html" class="button">Ver más</a></li>
 				</ul>
 			</div>
 		</div>
