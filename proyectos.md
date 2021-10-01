@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Presentación</h2>
 		</header>
-		<p>Aquí una pequeña presentación de los proyectos que ilustran mi camino al día de hoy, cada uno de ellos con su distintiva complejidad y aplicación del conocimiento.</p>
+		<p>Aquí una pequeña presentación de los proyectos que ilustran mi camino al día de hoy, cada uno de ellos con su distintiva complejidad y requisitos a la hora de aplicar el conocimiento.</p>
 	</div>
 </section>
 
@@ -23,14 +23,14 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="sobremi.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Video 2021-10-01 at 1.59.11 PM (1).mp4" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Volante para PC</h3>
 				</header>
-				<p>Un volante para PC con FFB (Fuerza de Retroalimentación) de diseño propio y piezas recicladas.</p>
+				<p>Un volante para PC con FFB (Fuerza de Retroalimentación) de diseño propio y piezas recicladas, creado para competencias virtuales.</p>
 				<ul class="actions">
 					<li><a href="sobremi.html" class="button">Ver más</a></li>
 				</ul>
