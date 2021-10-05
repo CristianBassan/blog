@@ -15,13 +15,13 @@ nav-menu: false
 
 <!-- Content -->
 <h2 id="content">La idea:</h2>
-<p>Surge de la unión de dos mundos que me apasionan de gran manera: Las carreras y la ingeniería. Es un proyecto que marcó un salto en los proyectos que venía llevando a cabo debido a su complejidad. El diseño estético y mecánico es de diseño propio, utilizando SolidWorks como herramienta.</p>
+<p>Surge de la unión de dos mundos que me apasionan de gran manera: Las carreras y la ingeniería. Es un proyecto que marcó un salto en los proyectos que venía llevando a cabo debido a su complejidad. El diseño estético y mecánico es de diseño propio, utilizando SolidWorks como herramienta y firmware "EMCUtility".</p>
 <p>Con éste competí en ligas virtuales, ganando así los trofeos que se observan en la foto, contra pilotos profesionales reales y de e-sport.</p>
 <div class="row">
 	
 	<div class="6u 12u$(small)">
 		<h3>Reconocimiento</h3>
-		<p>Además de los resultados obtenidos en pista, fui invitado a un programa de televisión a través del canal El Garage TV, programa llamado Verko Carreras TV, donde se me hizo una nota mostrando mi creación y hablando un poco del ámbito de las carreras virtuales. Dicha nota se la puede ver en los siguientes links: <a href="https://www.instagram.com/p/CMsUIVgB5eY/">Parte 1</a>, <a href="https://www.instagram.com/p/CMsUWBeBpCs/">Parte 2</a></p>
+		<p>Además de los resultados obtenidos en pista, fui invitado a un programa de televisión a través del canal El Garage TV, programa llamado Verko Carreras TV, donde se me hizo una nota mostrando en detalle el proyecto y hablando un poco del ámbito de las carreras virtuales. Dicha nota se la puede ver en los siguientes links: <a href="https://www.instagram.com/p/CMsUIVgB5eY/">Parte 1</a>, <a href="https://www.instagram.com/p/CMsUWBeBpCs/">Parte 2</a></p>
 	</div>
 	
 	<!-- Lists -->
