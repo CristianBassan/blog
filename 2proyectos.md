@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p>La silla de ruedas eléctrica importada de una persona se averió y, en conjunto con la el Departamento de Impresión 3D de la UNNE, se desarrolló el circuito controlador con piezas fácilmente reparables y que se consiguen en nuestro país.</p>
 				<ul class="actions">
-					<li><a href="sillaruedas.html" class="button">Ver más</a></li>
+					<li><a href="proyectos/sillaruedas.html" class="button">Ver más</a></li>
 				</ul>
 			</div>
 		</div>
