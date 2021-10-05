@@ -48,7 +48,7 @@ nav-menu: false
 	</div>
 	
 	<h4>Imágenes</h4>
-<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
+<span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/ezgif-2-ab5c98c5177f.gif" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
