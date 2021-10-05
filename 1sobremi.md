@@ -2,7 +2,7 @@
 layout: page
 title: Sobre mí
 description: Mi historia
-image: assets/images/pic01.jpg
+image: assets/images/12108890_10205469300188507_1432412574392159727_n.jpg
 nav-menu: true
 ---
 
