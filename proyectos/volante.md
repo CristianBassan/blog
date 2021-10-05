@@ -40,6 +40,7 @@ nav-menu: false
 			<li>Eje, masas de volante y piñones torneadas</li>
 			<li>Cadena y piñones de distribución del motor de una moto 110cc.</li>
 			<li>Estructura fabricada en MDF cortada a láser, fachada cubierta con vinilo símil fibra de carbono</li>
+			<li>Tablet a modo de tablero, indica velocidad, marcha, tiempos de vuelta, etc.</li>
 		</ul>
 
 	</div>
