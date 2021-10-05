@@ -41,8 +41,8 @@ nav-menu: false
 
 	</div>
 	<div class="main">
-		<h4>Imágenes</h4>
-		<h3>Desarrollo actual</h3>
+		<h3>Imágenes</h3>
+		<h4>Desarrollo actual</h4>
 	</div>
 <div class="box alt">
 	<div class="row 50% uniform">
