@@ -25,8 +25,8 @@ nav-menu: false
 <div class="row">
 	
 	<div class="6u 12u$(small)">
-		<h3>Reconocimiento</h3>
-		<p>Además de los resultados obtenidos en pista, fui invitado a un programa de televisión a través del canal El Garage TV, programa llamado Verko Carreras TV, donde se me hizo una nota mostrando en detalle el proyecto y hablando un poco del ámbito de las carreras virtuales. Dicha nota se la puede ver en los siguientes links: <a href="https://www.instagram.com/p/CMsUIVgB5eY/">Parte 1</a>, <a href="https://www.instagram.com/p/CMsUWBeBpCs/">Parte 2</a></p>
+		<h3>Desarrollos previos</h3>
+		<p>La silla de ruedas llevaba en la facultad al menos 3 años, esperando la reparación. Un grupo de trabajo anterior al mío</p>
 	</div>
 	
 	<!-- Lists -->
