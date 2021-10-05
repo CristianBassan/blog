@@ -21,7 +21,7 @@ nav-menu: false
 	
 	<div class="6u 12u$(small)">
 		<h3>Reconocimiento</h3>
-		<p>Además de los resultados obtenidos en pista, fui invitado a un programa de televisión a través del canal El Garage TV, programa llamado Verko Carreras TV, donde se me hizo una nota mostrando en detalle el proyecto y hablando un poco del ámbito de las carreras virtuales. Dicha nota se la puede ver en los siguientes links: <a href="https://www.instagram.com/p/CMsUIVgB5eY/" class="button special">Parte 1</a>, <a href="https://www.instagram.com/p/CMsUWBeBpCs/" class="button special">Parte 2</a></p>
+		<p>Además de los resultados obtenidos en pista, fui invitado a un programa de televisión a través del canal El Garage TV, programa llamado Verko Carreras TV, donde se me hizo una nota mostrando en detalle el proyecto y hablando un poco del ámbito de las carreras virtuales. Dicha nota se la puede ver en los siguientes links: <a href="https://www.instagram.com/p/CMsUIVgB5eY/" class="button">Parte 1</a> <a href="https://www.instagram.com/p/CMsUWBeBpCs/" class="button">Parte 2</a></p>
 	</div>
 	
 	<!-- Lists -->
