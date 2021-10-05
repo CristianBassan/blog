@@ -34,12 +34,15 @@ nav-menu: false
 			<li>Rampas de aceleración y desaceleración</li>
 			<li>Velocidad máxima configurable</li>
 			<li>Capacidad de almacenar datos (ej: carga de la batería, mensajes de error) en el tiempo y enviárselos vía Bluetooth a un dispositivo con el fin de realizar análisis estadísticos</li>
-			<li>Velocidad máxima configurable</li>
+			<li>LCD indicador de la carga de la batería</li>
+			<li>Circuito protegido a la polaridad inversa, sobrecorriente y sobretemperatura</li>
+			<li>LCD indicador de la carga de la batería</li>
 		</ul>
 
 	</div>
-	
+	<div class="main">
 	<h4>Imágenes</h4>
+	</div>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/ezgif-2-ab5c98c5177f.gif" alt="" /></span></div>
