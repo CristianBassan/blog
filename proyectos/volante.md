@@ -15,7 +15,7 @@ nav-menu: false
 
 <!-- Content -->
 <h2 id="content">La idea:</h2>
-<p>Surge de la unión de dos mundos que me apasionan de gran manera: Las carreras y la ingeniería. Es un proyecto que marcó un salto en la complejidad de los proyectos que venía llevando a cabo debido a su complejidad. El diseño estético y mecánico es de diseño propio, utilizando SolidWorks como herramienta.</p>
+<p>Surge de la unión de dos mundos que me apasionan de gran manera: Las carreras y la ingeniería. Es un proyecto que marcó un salto en los proyectos que venía llevando a cabo debido a su complejidad. El diseño estético y mecánico es de diseño propio, utilizando SolidWorks como herramienta.</p>
 <p>Con éste competí en ligas virtuales, ganando así los trofeos que se observan en la foto, contra pilotos profesionales reales y de e-sport.</p>
 <div class="row">
 	
@@ -50,6 +50,7 @@ nav-menu: false
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/ezgif-2-ab5c98c5177f.gif" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Image 2021-10-01 at 1.53.07 PM (3).jpeg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/ezgif-2-ba7f1bfeefd0.gif" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Image 2021-10-01 at 1.59.11 PM.jpeg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Image 2021-10-01 at 1.53.07 PM (1).jpeg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Image 2021-10-01 at 1.53.07 PM.jpeg" alt="" /></span></div>
