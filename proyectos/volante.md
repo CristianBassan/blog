@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Volante
+title: Volante para PC
 description: Mi historia
 image: assets/images/volante/WhatsApp Image 2021-10-01 at 2.40.39 PM.jpeg
 nav-menu: false
@@ -12,14 +12,11 @@ nav-menu: false
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>Volante para PC</h1>
-		</header>
 
 <!-- Content -->
 <h2 id="content">La idea:</h2>
 <p>Surge de la unión de dos mundos que me apasionan de gran manera: Las carreras y la ingeniería. Es un proyecto que marcó un salto en la complejidad de los proyectos que venía llevando a cabo debido a su complejidad. El diseño estético y mecánico es de diseño propio, utilizando SolidWorks como herramienta.</p>
-<p>Con éste competí en ligas virtuales, ganando así los trofeos que se observan en la foto, compitiendo contra pilotos profesionales reales y de e-sport.</p>
+<p>Con éste competí en ligas virtuales, ganando así los trofeos que se observan en la foto, contra pilotos profesionales reales y de e-sport.</p>
 <div class="row">
 	
 	<div class="6u 12u$(small)">
