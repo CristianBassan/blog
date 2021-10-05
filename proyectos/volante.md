@@ -27,10 +27,21 @@ nav-menu: false
 		<p>Además de los resultados obtenidos en pista, fui invitado a un programa de televisión a través del canal El Garage TV, programa llamado Verko Carreras TV, donde se me hizo una nota mostrando mi creación y hablar un poco del ámbito de las carreras virtuales. A la nota se la puede ver en los siguientes links: <a href="https://www.instagram.com/p/CMsUIVgB5eY/">Parte 1</a>, <a href="https://www.instagram.com/p/CMsUWBeBpCs/">Parte 2</a></p>
 	</div>
 	
+	<!-- Lists -->
+	<div class="6u 12u$(small)">
+
+		<h4>Piezas utilizadas</h4>
+		<ul>
+			<li>Dolor etiam magna etiam.</li>
+			<li>Sagittis lorem eleifend.</li>
+			<li>Felis dolore viverra.</li>
+		</ul>
+
+	</div>
 	
 <!-- 	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA -->
 	
-<!-- 	
+
 	
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
@@ -421,4 +432,4 @@ print 'It took ' + i + ' iterations to sort the deck.';
 </div>
 </section>
 
-</div> -->
+</div> 
