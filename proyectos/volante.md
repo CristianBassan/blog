@@ -24,7 +24,7 @@ nav-menu: false
 	
 	<div class="6u 12u$(small)">
 		<h3>Reconocimiento</h3>
-		<p>Además de los resultados obtenidos en pista, fui invitado a un programa de televisión a través del canal El Garage TV, programa llamado Verko Carreras TV, donde se me hizo una nota mostrando mi creación y hablar un poco del ámbito de las carreras virtuales. A la nota se la puede ver en los siguientes links: <a href="https://www.instagram.com/p/CMsUIVgB5eY/">Parte 1</a>, <a href="https://www.instagram.com/p/CMsUWBeBpCs/">Parte 2</a></p>
+		<p>Además de los resultados obtenidos en pista, fui invitado a un programa de televisión a través del canal El Garage TV, programa llamado Verko Carreras TV, donde se me hizo una nota mostrando mi creación y hablando un poco del ámbito de las carreras virtuales. Dicha nota se la puede ver en los siguientes links: <a href="https://www.instagram.com/p/CMsUIVgB5eY/">Parte 1</a>, <a href="https://www.instagram.com/p/CMsUWBeBpCs/">Parte 2</a></p>
 	</div>
 	
 	<!-- Lists -->
@@ -42,10 +42,28 @@ nav-menu: false
 			<li>Rodamientos SKF</li>
 			<li>Eje, masas de volante y piñones torneadas</li>
 			<li>Cadena y piñones de distribución del motor de una moto 110cc.</li>
+			<li>Estructura fabricada en MDF cortada a láser, fachada cubierta con vinilo símil fibra de carbono</li>
 		</ul>
 
 	</div>
 	
+	<h4>Imágenes</h4>
+<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+	</div>
+</div>
 <!-- 	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA -->
 	
 
