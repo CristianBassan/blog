@@ -21,6 +21,17 @@ nav-menu: false
 <p>Surge de la unión de dos mundos que me apasionan de gran manera: Las carreras y la ingeniería. Es un proyecto que marcó un salto en la complejidad de los proyectos que venía llevando a cabo debido a su complejidad. El diseño estético y mecánico es de diseño propio, utilizando SolidWorks como herramienta.</p>
 <p>Con éste competí en ligas virtuales, ganando así los trofeos que se observan en la foto, compitiendo contra pilotos profesionales reales y de e-sport.</p>
 <div class="row">
+	
+	<div class="6u 12u$(small)">
+		<h3>Reconocimiento</h3>
+		<p>Además de los resultados obtenidos en pista, fui invitado a un programa de televisión a través del canal El Garage TV, programa llamado Verko Carreras TV, donde se me hizo una nota mostrando mi creación y hablar un poco del ámbito de las carreras virtuales. A la nota se la puede ver en los siguientes links: <a href="https://www.instagram.com/p/CMsUIVgB5eY/">Parte 1</a>, <a href="https://www.instagram.com/p/CMsUWBeBpCs/">Parte 2</a></p>
+	</div>
+	
+	
+<!-- 	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA -->
+	
+<!-- 	
+	
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
@@ -410,4 +421,4 @@ print 'It took ' + i + ' iterations to sort the deck.';
 </div>
 </section>
 
-</div>
+</div> -->
