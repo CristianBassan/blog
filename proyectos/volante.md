@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Volante para PC
-description: Mi historia
+description: Proyecto finalizado
 image: assets/images/volante/WhatsApp Image 2021-10-01 at 2.40.39 PM.jpeg
 nav-menu: false
 ---
