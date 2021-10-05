@@ -13,12 +13,13 @@ nav-menu: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Volante para PC</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">La idea:</h2>
+<p>Surge de la unión de dos mundos que me apasionan de gran manera: Las carreras y la ingeniería. Es un proyecto que marcó un salto en la complejidad de los proyectos que venía llevando a cabo debido a su complejidad. El diseño estético y mecánico es de diseño propio, utilizando SolidWorks como herramienta.</p>
+<p>Con éste competí en ligas virtuales, ganando así los trofeos que se observan en la foto, compitiendo contra pilotos profesionales reales y de e-sport.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
