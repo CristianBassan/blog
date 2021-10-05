@@ -15,37 +15,26 @@ nav-menu: false
 
 <!-- Content -->
 <h2 id="content">La idea:</h2>
-<p>Esta silla de ruedas le pertenece a una persona con discapacidad, es importada y sufrió de una avería en el circuito que controla los motores. Dadas las circunstancias, se volvió imposible repararla con piezas originales
-  debido al gran costo y tiempo que esto requeriría. Entonces, se le ordenó al jefe del departamento de Impresión 3D y subjefe del departamento de Mecánica de la Universidad Nacional
-  del Nordeste hacer un desarrollo para hacerla funcionar.</p>
-<p>Cuando comencé a trabajar en la facultad, ya había un desarrollo que se probó y fracasó, y otro más evolucionado que estaba en la fase de diseño, el cual colaboré en la fabricación.
-    Luego de extensas pruebas del diseño, se llegó a la conclusión de que podía ser mejorado.</p>
-<p>Fué en ese entonces que comencé un desarrollo propio haciendo uso de productos innovadores que permitían darle a la silla de ruedas funciones antes imposibles y con buena
-  protección contra abusos y situaciónes antes perjudiciales al circuito (cortocircuitos, exceso de temperaturas, etc.)</p>
+<p>Esta silla de ruedas le pertenece a una persona con discapacidad, es importada y sufrió de una avería en el circuito que controla los motores. Dadas las circunstancias, se volvió imposible repararla con piezas originales debido al gran costo y tiempo que esto requeriría. Entonces, se le ordenó al jefe del departamento de Impresión 3D y subjefe del departamento de Mecánica de la Universidad Nacional del Nordeste hacer un desarrollo para hacerla funcionar.</p>
+<p>Cuando comencé a trabajar en la facultad, ya había un desarrollo que se probó y fracasó, y otro más evolucionado que estaba en la fase de diseño, el cual colaboré en la fabricación. Luego de extensas pruebas del diseño, se llegó a la conclusión de que podía ser mejorado.</p>
+<p>Fue en ese entonces que se comenzó un desarrollo nuevo haciendo uso de productos innovadores que permitían darle a la silla de ruedas funciones antes imposibles y con buena
+  protección contra abusos y situaciónes perjudiciales al circuito (cortocircuitos, exceso de temperaturas, etc.)</p>
 <div class="row">
 	
 	<div class="6u 12u$(small)">
-		<h3>Desarrollos previos</h3>
-		<p>La silla de ruedas llevaba en la facultad al menos 3 años, esperando la reparación. Un grupo de trabajo anterior al mío</p>
+		<h3>Detalles del desarrollo</h3>
+		<p>Se optó por un approach digital para el desarrollo, lo único que se utilizó de la silla de ruedas original fueron las ruedas y motores, estructura y asiento. se imprimió en 3D una nueva carcasa para el joystick (de juegos "arcade" de la época debido a su disponibilidad y durabilidad) y la caja para proteger el circuito fabricado. Se desarrolló el circuito teniendo en cuenta la sencillez a la hora de realizar futuras reparaciones, las piezas individuales del circuito se montan y desmontan sin necesidad de soldar/desoldar.</p>
 	</div>
 	
 	<!-- Lists -->
 	<div class="6u 12u$(small)">
 
-		<h4>Piezas utilizadas</h4>
+		<h4>Funciones:</h4>
 		<ul>
-			<li>Aro de volante y peadalera de Logitech G27</li>
-			<li>Arduino Leonardo</li>
-			<li>Fuente switching de 12V 40A de tira LED</li>
-			<li>Encoder de impresora Epson</li>
-			<li>Driver de motor de CC BTS7960</li>
-			<li>Motor del ventilador de habitáculo de un vehículo Ford Mondeo</li>
-			<li>Levas al volante impresas en 3D</li>
-			<li>Rodamientos SKF</li>
-			<li>Eje, masas de volante y piñones torneadas</li>
-			<li>Cadena y piñones de distribución del motor de una moto 110cc.</li>
-			<li>Estructura fabricada en MDF cortada a láser, fachada cubierta con vinilo símil fibra de carbono</li>
-			<li>Tablet a modo de tablero, indica velocidad, marcha, tiempos de vuelta, etc.</li>
+			<li>Rampas de aceleración y desaceleración</li>
+			<li>Velocidad máxima configurable</li>
+			<li>Capacidad de almacenar datos (ej: carga de la batería, mensajes de error) en el tiempo y enviárselos vía Bluetooth a un dispositivo con el fin de realizar análisis estadísticos</li>
+			<li>Velocidad máxima configurable</li>
 		</ul>
 
 	</div>
