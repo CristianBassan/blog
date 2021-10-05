@@ -51,20 +51,10 @@ nav-menu: false
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/ezgif-2-ab5c98c5177f.gif" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Image 2021-10-01 at 1.53.07 PM.jpeg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Image 2021-10-01 at 1.53.07 PM (3).jpeg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volanteWhatsApp Image 2021-10-01 at 1.59.11 PM.jpeg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Image 2021-10-01 at 1.59.11 PM.jpeg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Image 2021-10-01 at 1.53.07 PM (1).jpeg" alt="" /></span></div>
 		
 		
-		
-		
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
 	</div>
 </div>
 <!-- 	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA -->
