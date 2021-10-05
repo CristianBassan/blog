@@ -32,9 +32,16 @@ nav-menu: false
 
 		<h4>Piezas utilizadas</h4>
 		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
+			<li>Aro de volante y peadalera de Logitech G27</li>
+			<li>Arduino Leonardo</li>
+			<li>Fuente switching de 12V 40A de tira LED</li>
+			<li>Encoder de impresora Epson</li>
+			<li>Driver de motor de CC BTS7960</li>
+			<li>Motor del ventilador de habitáculo de un vehículo Ford Mondeo</li>
+			<li>Levas al volante impresas en 3D</li>
+			<li>Rodamientos SKF</li>
+			<li>Eje, masas de volante y piñones torneadas</li>
+			<li>Cadena y piñones de distribución del motor de una moto 110cc.</li>
 		</ul>
 
 	</div>
