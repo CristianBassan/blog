@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="sobremi.html" class="image">
-			<img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/WhatsApp Image 2021-10-01 at 1.50.58 PM (1).jpeg" alt="" data-position="top center" />
+			<img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/1.jpeg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
