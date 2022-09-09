@@ -46,11 +46,11 @@ nav-menu: false
 	</div>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/1.jpeg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/2.jpeg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/3.jpeg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/9.jpeg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/10.gif" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/1.jpeg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/4.jpeg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/5.mp4" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/7.jpeg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/6.jpeg" alt="" /></span></div>
 		
 		
