@@ -49,9 +49,12 @@ nav-menu: false
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/9.jpeg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/10.gif" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/1.jpeg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/4.jpeg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/3.jpeg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/6.jpeg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/8.jpeg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/7.jpeg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/6.jpeg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/4.jpeg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/5.gif" alt="" /></span></div>
 		
 		
 	</div>
