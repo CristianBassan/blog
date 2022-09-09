@@ -54,7 +54,7 @@ nav-menu: false
 	</div>
 </div>
 		<div class="main">
-		<h3>Imágenes de la entrega de los desarrollos previos</h3>
+		<h3>Imágenes de los desarrollos anteriores</h3>
 	</div>
 <div class="box alt">
 	<div class="row 50% uniform">
