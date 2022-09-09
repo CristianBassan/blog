@@ -49,9 +49,15 @@ nav-menu: false
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/9.jpeg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/10.gif" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/11.jpeg" alt="" /></span></div>
+		
+		
+	</div>
+</div>
 		<div class="main">
-		<h3>Imágenes de la entrega de desarrollos previos</h3>
-		</div>
+		<h3>Imágenes de la entrega de los desarrollos previos</h3>
+	</div>
+<div class="box alt">
+	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/3.jpeg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/6.jpeg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/8.jpeg" alt="" /></span></div>
