@@ -36,13 +36,13 @@ nav-menu: false
 			<li>Capacidad de almacenar datos (ej: carga de la batería, mensajes de error) en el tiempo y enviárselos vía Bluetooth a un dispositivo con el fin de realizar análisis estadísticos</li>
 			<li>LCD indicador de la carga de la batería</li>
 			<li>Circuito protegido a la polaridad inversa, sobrecorriente y sobretemperatura</li>
+			<li>Componentes del circuito fácilmetne intercambiables</li>
 			
 		</ul>
 
 	</div>
 	<div class="main">
 		<h3>Imágenes</h3>
-		<h4>Desarrollo actual</h4>
 	</div>
 <div class="box alt">
 	<div class="row 50% uniform">
