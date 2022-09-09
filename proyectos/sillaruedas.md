@@ -2,7 +2,7 @@
 layout: post
 title: Silla de ruedas eléctrica
 description: Mi historia
-image: assets/images/silla ruedas/WhatsApp Image 2021-10-01 at 1.50.58 PM (1).jpeg
+image: assets/images/silla ruedas/1.jpeg
 nav-menu: false
 ---
 
@@ -47,11 +47,11 @@ nav-menu: false
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/1.jpeg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/1.jpeg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/ezgif-2-ba7f1bfeefd0.gif" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Image 2021-10-01 at 1.59.11 PM.jpeg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Image 2021-10-01 at 1.53.07 PM (1).jpeg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Image 2021-10-01 at 1.53.07 PM.jpeg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/2.jpeg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/3.jpeg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/4.jpeg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/5.mp4" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/6.jpeg" alt="" /></span></div>
 		
 		
 	</div>
