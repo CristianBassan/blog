@@ -23,9 +23,9 @@ tiles-count: 2
 # You need to restart jekyll for changes to have an effect
 socials:
 
+  upwork: https://www.upwork.com/freelancers/018ff81c1b7af598ae
   LinkedIn: https://www.linkedin.com/in/cristian-bassan-583075216/
-  upwork: https://www.upwork.com/freelancers/~018ff81c1b7af598ae
-
+  
 # build settings
 markdown: kramdown
 
