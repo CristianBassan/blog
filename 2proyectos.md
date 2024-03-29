@@ -1,7 +1,7 @@
 ---
 title: Mis Proyectos
 layout: landing
-description: 'Mis fuentes de motivación, <br />proyectos finalizados y en proceso'
+description: 'My motivation sources.'
 image: assets/images/circui.jpg
 nav-menu: true
 ---
@@ -9,15 +9,6 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Presentación</h2>
-		</header>
-		<p>Aquí una pequeña presentación de los proyectos que ilustran mi camino al día de hoy, cada uno de ellos con su distintiva complejidad y requisitos a la hora de aplicar el conocimiento.</p>
-	</div>
-</section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -28,11 +19,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Volante para PC</h3>
+					<h3>PC Gaming steering wheel</h3>
 				</header>
-				<p>Un volante para PC con FFB (Fuerza de Retroalimentación) de diseño propio y piezas recicladas, creado para competencias virtuales.</p>
+				<p>A steering wheel I've designed and built for racing in online competitions. It has Force Feedback and it's been made using recycled components.</p>
 				<ul class="actions">
-					<li><a href="proyectos/volante.html" class="button">Ver más</a></li>
+					<li><a href="proyectos/volante.html" class="button">See more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,11 +35,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Silla de ruedas eléctrica</h3>
+					<h3>Electric Wheelchair</h3>
 				</header>
-				<p>La silla de ruedas eléctrica importada de una persona se averió y, en conjunto con la el Departamento de Impresión 3D de la UNNE, se desarrolló el circuito controlador con piezas fácilmente reparables y que se consiguen en nuestro país.</p>
+				<p>A special needs person's wheelchair broke, and due to elevated market prices of the replacement parts, it was decided by the Universidad Nacional del Nordeste to take in the project and redesign and build the whole control and power circuits from the ground up. Maintaining the original structure, wheels, motors and battery.</p>
 				<ul class="actions">
-					<li><a href="proyectos/sillaruedas.html" class="button">Ver más</a></li>
+					<li><a href="proyectos/sillaruedas.html" class="button">See more</a></li>
 				</ul>
 			</div>
 		</div>
