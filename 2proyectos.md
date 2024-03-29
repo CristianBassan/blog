@@ -1,5 +1,5 @@
 ---
-title: Mis Proyectos
+title: My Projects
 layout: landing
 description: 'My motivation sources.'
 image: assets/images/circui.jpg
