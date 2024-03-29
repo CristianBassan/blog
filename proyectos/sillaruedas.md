@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Silla de ruedas eléctrica
-description: Mi historia
+title: Electric wheel chair
+description: 
 image: assets/images/silla ruedas/1.jpeg
 nav-menu: false
 ---
@@ -39,16 +39,16 @@ nav-menu: false
 					</ul>
 
 				</div>
-
+<!-- 
 				<div class="6u 12u$(small)">
-					<h3>Detalles del desarrollo</h3>
+					<h3>Development details</h3>
 					<p>Se optó por un approach digital para el desarrollo, lo único que se utilizó de la silla de ruedas
 						original fueron las ruedas y motores, estructura y asiento. Se imprimió en 3D una nueva carcasa
 						para el joystick (de juegos "arcade" de la época debido a su disponibilidad y durabilidad) y la
 						caja para proteger el circuito fabricado. Se desarrolló el circuito teniendo en cuenta la
 						sencillez a la hora de realizar futuras reparaciones, las piezas individuales del circuito se
 						montan y desmontan sin necesidad de soldar/desoldar.</p>
-				</div>
+				</div> -->
 
 				<!-- Lists -->
 <!-- 				<div class="6u 12u$(small)">
