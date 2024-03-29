@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hola, me llamo Cristian.'
+landing-title: 'Hi, I'm Cristian.'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Bienvenidos a mi portfolio personal.
+Welcome to my personal portfolio.
