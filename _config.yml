@@ -2,7 +2,7 @@
 title: Cristian Bassan
 subtitle: Maker
 email: cris_ba10@hotmail.com
-description: Estudiante de Ingeniería Electromecánica
+description: Electromechanical Engineering Student
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -26,6 +26,8 @@ socials:
   Instagram: https://www.instagram.com/bassancristian/
   Facebook: https://www.facebook.com/cristian.bassan/
   Whatsapp: https://wa.me/543624668509
+  LinkedIn: https://www.linkedin.com/in/cristian-bassan-583075216/
+  UpWork: https://www.upwork.com/freelancers/~018ff81c1b7af598ae
 
 # build settings
 markdown: kramdown
