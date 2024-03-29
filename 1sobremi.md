@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sobre mí
-description: Mi historia
+title: About me
+description: 
 image: assets/images/12108890_10205469300188507_1432412574392159727_n.jpg
 nav-menu: true
 ---
@@ -13,12 +13,18 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About me</h1>
 		</header>
 
 <!-- Content -->
 <h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<p>I was born and raised in Resistencia, Chaco, Argentina.
+
+At an early age I found myself learning concepts in ever-increasing complexity to solve problems, mainly to build things in video games. That has prompted me to study Electromechanical Engineering at the Universidad Nacional del Nordeste, located in my hometown. I am currently in the final stretch of my studies, with my first potential graduation date at the end of this year, 2024.
+
+To stay motivated during my academic training, I have embarked on projects of varying nature, which has led me to learn a wide range of branches of knowledge, often not strictly linked to electromechanical engineering. Personally, I believe that this fact has given me relative ease in learning new concepts and being able to quickly learn and apply different concepts to solve a problem.
+
+I think it is important to never lose the capacity of amazement and curiosity, and I hope to spark those feelings in all the people who find this profile through my publications. Don't hesitate to ask and/or get in touch!</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
