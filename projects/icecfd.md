@@ -9,55 +9,59 @@ nav-menu: false
 <!-- Main -->
 <div id="main" class="alt">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
+	<!-- One -->
+	<section id="one">
+		<div class="inner">
 
-<!-- Content -->
-<h2 id="content">The idea:</h2>
-<p>Comes up from combining two worlds I'm passionate about: Racing and Engineering. Mechanical and aesthetic design is of my own, using SolidWorks. The firmware used is called EMCUtility.</p>
-<p>I've competed in online racing leagues with this steering wheel, winning the trophies shown in the image.</p>
-<div class="row">
-	
-	<div class="6u 12u$(small)">
-		<h3>Acknowledgement</h3>
-		<p>I was invited to a nation wide aired TV show, showing this project. You can watch the interview in the following links: <a href="https://www.instagram.com/p/CMsUIVgB5eY/" class="button">Part 1</a> <a href="https://www.instagram.com/p/CMsUWBeBpCs/" class="button">Part 2</a></p>
-	</div>
-	
-	<!-- Lists -->
-	<div class="6u 12u$(small)">
+			<!-- Content -->
+			<h2 id="content">The idea:</h2>
+			<p>Small displacement internal combustion engines from motorbikes are used to compete in go-kart races all
+				around the country. The fact that the air intake faces the rear of the vehicle
+				prompted me to design a duct that redirects the flow, taking advantage of the air's relative speed to
+				increase flow.</p>
+			<p>Motivation comes from the application of Bernoulli equations and common sense, after watching other competitors use aftermarket trumpets facing the wrong direction.</p>
+			<p>After the design was completed, a Computational Fluid Dynamics Simulation was used to validate the initial proposal.</p>
+			<div class="row">
 
-		<h4>Components used</h4>
-		<ul>
-			<li>Logitech G27 steering wheel rim</li>
-			<li>Arduino Leonardo</li>
-			<li>12V 40A power supply</li>
-			<li>Printer encoder</li>
-			<li>DC Motor Driver BTS7960</li>
-			<li>Automotive blower motor</li>
-			<li>3D Printed paddle shifters</li>
-			<li>SKF ball bearings</li>
-			<li>Machined axle and wheel hub</li>
-			<li>Small CC motorbike ICE chain and cogs.</li>
-			<li>CNC router cut MDF structure</li>
-			<li>Old tablet as dashboard</li>
-		</ul>
+				
 
-	</div>
-	
-	<h4>Images</h4>
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/1.gif" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/2.gif" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/3.gif" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/4.jpeg" alt="" /></span></div>
-		
-	</div>
-</div>
-<!-- 	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA -->
-	
-</div>
+				<!-- Lists -->
+				<div class="6u 12u$(small)">
+
+					<h4>CFD Simulation considerations</h4>
+					<ul>
+						<li>Constant linear speed of 80 kph</li>
+						<li>Intake valve opening and closing calculated and simulated</li>
+						
+						
+					</ul>
+
+				</div>
+
+				<h2 id="content">Results:</h2>
+			<p>Simulation results shown an air mass flow increase of ~13%. Concluding that the design met it's purpose, and an increase of engine power is to be expected after proper carburetor tuning.</p>
+
+				<h4>Images</h4>
+				<div class="box alt">
+					<div class="row 50% uniform">
+						<div class="4u"><span class="image fit"><img
+									src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/1.gif"
+									alt="" /></span></div>
+						<div class="4u"><span class="image fit"><img
+									src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/2.gif"
+									alt="" /></span></div>
+						<div class="4u$"><span class="image fit"><img
+									src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/3.gif"
+									alt="" /></span></div>
+						<div class="4u"><span class="image fit"><img
+									src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/4.jpeg"
+									alt="" /></span></div>
+
+					</div>
+				</div>
+				<!-- 	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA -->
+
+			</div>
 
 
-</div> 
+		</div>
