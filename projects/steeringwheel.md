@@ -21,7 +21,7 @@ nav-menu: false
 	
 	<div class="6u 12u$(small)">
 		<h3>Acknowledgement</h3>
-		<p>I was invited to a nation wide aired TV show, showing this project. You can watch the interview in the following links: <a href="https://www.instagram.com/p/CMsUIVgB5eY/" class="button">Parte 1</a> <a href="https://www.instagram.com/p/CMsUWBeBpCs/" class="button">Parte 2</a></p>
+		<p>I was invited to a nation wide aired TV show, showing this project. You can watch the interview in the following links: <a href="https://www.instagram.com/p/CMsUIVgB5eY/" class="button">Part 1</a> <a href="https://www.instagram.com/p/CMsUWBeBpCs/" class="button">Part 2</a></p>
 	</div>
 	
 	<!-- Lists -->
