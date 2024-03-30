@@ -36,7 +36,7 @@ nav-menu: false
 			<li>DC Motor Driver BTS7960</li>
 			<li>Automotive blower motor</li>
 			<li>3D Printed paddle shifters</li>
-			<li>SKF bearing balls</li>
+			<li>SKF ball bearings</li>
 			<li>Machined axle and wheel hub</li>
 			<li>Small CC motorbike ICE chain and cogs.</li>
 			<li>CNC router cut MDF structure</li>
