@@ -20,11 +20,11 @@ nav-menu: true
 <h2 id="content">Sample Content</h2>
 <p>I was born and raised in Resistencia, Chaco, Argentina.
 
-At an early age I found myself learning concepts in ever-increasing complexity to solve problems, mainly to build things in video games. That has prompted me to study Electromechanical Engineering at the Universidad Nacional del Nordeste, located in my hometown. I am currently in the final stretch of my studies, with my first potential graduation date at the end of this year, 2024.
+<p>At an early age I found myself learning concepts in ever-increasing complexity to solve problems, mainly to build things in video games. That has prompted me to study Electromechanical Engineering at the Universidad Nacional del Nordeste, located in my hometown. I am currently in the final stretch of my studies, with my first potential graduation date at the end of this year, 2024. </p>
 
-To stay motivated during my academic training, I have embarked on projects of varying nature, which has led me to learn a wide range of branches of knowledge, often not strictly linked to electromechanical engineering. Personally, I believe that this fact has given me relative ease in learning new concepts and being able to quickly learn and apply different concepts to solve a problem.
+<p>To stay motivated during my academic training, I have embarked on projects of varying nature, which has led me to learn a wide range of branches of knowledge, often not strictly linked to electromechanical engineering. Personally, I believe that this fact has given me relative ease in learning new concepts and being able to quickly learn and apply different concepts to solve a problem.</p>
 
-I think it is important to never lose the capacity of amazement and curiosity, and I hope to spark those feelings in all the people who find this profile through my publications. Don't hesitate to ask and/or get in touch!</p>
+<p>I think it is important to never lose the capacity of amazement and curiosity, and I hope to spark those feelings in all the people who find this profile through my publications. Don't hesitate to ask and/or get in touch!</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
