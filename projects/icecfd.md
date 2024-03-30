@@ -49,7 +49,7 @@ nav-menu: false
 				<div class="row 50% uniform">
 					<div class="4u"><span class="image"><img
 								src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/1.gif"
-								alt="" /></span></div>
+								alt="" width="500" height="500"/></span></div>
 					<div class="4u$"><span class="image"><img
 								src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/2.gif"
 								alt="" /></span></div>
