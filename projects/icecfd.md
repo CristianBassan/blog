@@ -52,7 +52,7 @@ nav-menu: false
 								alt="" height="500"/></span></div>
 					<div class="4u$"><span class="image"><img
 								src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/2.gif"
-								alt="" style="width: 55vw; min-width: 50px; /></span></div>
+								alt="" style="width: 55vw; min-width: 50px;" /></span></div>
 					<div class="4u"><span class="image"><img
 								src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/3.gif"
 								alt="" /></span></div>
