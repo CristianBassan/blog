@@ -12,7 +12,7 @@ nav-menu: true
 
 	<!-- Two -->
 	<section id="two" class="spotlights">
-		 <section>
+		<section>
 			<a href="sobremi.html" class="image">
 				<img src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/ICECFD.jpg" alt=""
 					data-position="top center" />
@@ -22,10 +22,9 @@ nav-menu: true
 					<header class="major">
 						<h3>ICE Air-Intake design and CFD</h3>
 					</header>
-					<p>A special needs person's wheelchair broke, and due to elevated market prices of the replacement
-						parts, it was decided by the Universidad Nacional del Nordeste to take in the project and
-						redesign and build the whole control and power circuits from the ground up. Maintaining the
-						original structure, wheels, motors and battery.</p>
+					<p>Small displacement internal combustion engines from motorbikes are used to compete in go-kart races all around the country. The fact that the air intake faces the rear of the vehicle 
+						prompted me to design a duct that redirects the flow, taking advantage of the air's relative speed to increase flow.
+					</p>
 					<ul class="actions">
 						<li><a href="projects/icecfd.html" class="button next">Learn More</a></li>
 					</ul>
