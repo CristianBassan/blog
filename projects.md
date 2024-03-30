@@ -23,7 +23,7 @@ nav-menu: true
 				</header>
 				<p>A special needs person's wheelchair broke, and due to elevated market prices of the replacement parts, it was decided by the Universidad Nacional del Nordeste to take in the project and redesign and build the whole control and power circuits from the ground up. Maintaining the original structure, wheels, motors and battery.</p>
 				<ul class="actions">
-					<li><a href="proyectos/sillaruedas.html" class="button next">Learn More</a></li>
+					<li><a href="projects/wheelchair.html" class="button next">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
@@ -39,7 +39,7 @@ nav-menu: true
 				</header>
 				<p>A steering wheel I've designed and built for racing in online competitions. It has Force Feedback and it's been made using recycled components.</p>
 				<ul class="actions">
-					<li><a href="proyectos/volante.html" class="button next">Learn More</a></li>
+					<li><a href="project/steeringwheel.html" class="button next">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
