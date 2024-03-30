@@ -27,7 +27,7 @@ nav-menu: true
 						redesign and build the whole control and power circuits from the ground up. Maintaining the
 						original structure, wheels, motors and battery.</p>
 					<ul class="actions">
-						<li><a href="projects/wheelchair.html" class="button next">Learn More</a></li>
+						<li><a href="projects/icecfd.html" class="button next">Learn More</a></li>
 					</ul>
 				</div>
 			</div>
