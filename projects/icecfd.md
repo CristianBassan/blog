@@ -47,16 +47,16 @@ nav-menu: false
 			<h4>Images</h4>
 			<div class="box alt">
 				<div class="row 50% uniform">
-					<div class="4u"><span class="image"><img
+					<div class="10u"><span class="image"><img
 								src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/1.gif"
-								alt="" height="500"/></span></div>
-					<div class="4u$"><span class="image"><img
+								alt=""/></span></div>
+					<div class="10u$"><span class="image"><img
 								src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/2.gif"
-								alt="" style="width: 55vw; min-width: 50px;" /></span></div>
-					<div class="4u"><span class="image"><img
+								alt="" /></span></div>
+					<div class="10u"><span class="image"><img
 								src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/3.gif"
 								alt="" /></span></div>
-					<div class="4u"><span class="image"><img
+					<div class="10u"><span class="image"><img
 								src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/4.jpeg"
 								alt="" /></span></div>
 
