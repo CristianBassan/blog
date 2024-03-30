@@ -23,7 +23,7 @@ nav-menu: true
 						<h3>ICE Air-Intake design and CFD</h3>
 					</header>
 					<p>Small displacement internal combustion engines from motorbikes are used to compete in go-kart races all around the country. The fact that the air intake faces the rear of the vehicle 
-						prompted me to design a duct that redirects the flow, taking advantage of the air's relative speed to increase flow.
+						prompted me to design a duct that redirects the flow, taking advantage of the air's relative speed and cooler temperatures to increase flow.
 					</p>
 					<ul class="actions">
 						<li><a href="projects/icecfd.html" class="button next">Learn More</a></li>
