@@ -17,7 +17,7 @@ nav-menu: true
 			</header>
 
 			<!-- Content -->
-			<h2 id="content">Sample Content</h2>
+			<h2 id="content">A bit of my story</h2>
 			<p>I was born and raised in Resistencia, Chaco, Argentina.
 
 			<p>At an early age I found myself learning concepts in ever-increasing complexity to solve problems, mainly
@@ -35,8 +35,3 @@ nav-menu: true
 				get in touch!</p>
 
 
-
-		</div>
-	</section>
-
-</div>
