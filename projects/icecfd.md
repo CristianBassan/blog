@@ -16,11 +16,11 @@ nav-menu: false
 			<!-- Content -->
 			<h2 id="content">The idea:</h2>
 			<p>Small displacement internal combustion engines from motorbikes are used to compete in go-kart races all
-				around the country. The fact that the air intake faces the rear of the vehicle
-				prompted me to design a duct that redirects the flow, taking advantage of the air's relative speed to
+				around the country of Argentina. The fact that the air intake faces the rear of the vehicle
+				prompted me to design a duct that redirects the flow, taking advantage of the air's relative speed and lower temperatures to
 				increase flow.</p>
 			<p>Motivation comes from the application of Bernoulli equations and common sense, after watching other
-				competitors use aftermarket trumpets facing the wrong direction.</p>
+				competitors use aftermarket intake trumpets facing the wrong direction.</p>
 			<p>After the design was completed, a Computational Fluid Dynamics Simulation was used to validate the
 				initial proposal.</p>
 
