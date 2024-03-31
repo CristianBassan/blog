@@ -20,7 +20,7 @@ nav-menu: true
 			<div class="content">
 				<div class="inner">
 					<header class="major">
-						<h3>ICE Air-Intake design and CFD</h3>
+						<h3>Gear Reducer</h3>
 					</header>
 					<p>Full Design and assembly instructions of a Gear Reducer and related components.
 					</p>
