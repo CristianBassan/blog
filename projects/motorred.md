@@ -37,10 +37,7 @@ nav-menu: false
 
 			</div>
 
-			<h2 id="content">Results:</h2>
-			<p>Simulation results shown an air mass flow increase of ~13%, as shown in the 4th image. Concluding that
-				the design met it's
-				purpose, and an increase in engine power is to be expected after proper carburetor tuning.</p>
+
 
 			<h4>Images</h4>
 			<div class="box alt">
