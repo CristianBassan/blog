@@ -14,6 +14,25 @@ nav-menu: true
 	<section id="two" class="spotlights">
 		<section>
 			<a href="sobremi.html" class="image">
+				<img src="https://cristianbassan.github.io/portfolio/assets/images/motorred/render.png" alt=""
+					data-position="top center" />
+			</a>
+			<div class="content">
+				<div class="inner">
+					<header class="major">
+						<h3>ICE Air-Intake design and CFD</h3>
+					</header>
+					<p>Full Design and assembly instructions of a Gear Reducer and related components.
+					</p>
+					<ul class="actions">
+						<li><a href="projects/icecfd.html" class="button next">Learn More</a></li>
+					</ul>
+				</div>
+			</div>
+		</section>
+	<section id="two" class="spotlights">
+		<section>
+			<a href="sobremi.html" class="image">
 				<img src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/ICECFD.jpg" alt=""
 					data-position="top center" />
 			</a>
