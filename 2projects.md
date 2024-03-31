@@ -13,7 +13,7 @@ nav-menu: true
 	<!-- Two -->
 	<section id="two" class="spotlights">
 		<section>
-			<a href="sobremi.html" class="image">
+			<a href="motorred.html" class="image">
 				<img src="https://cristianbassan.github.io/portfolio/assets/images/motorred/render.png" alt=""
 					data-position="top center" />
 			</a>
@@ -25,14 +25,14 @@ nav-menu: true
 					<p>Full Design and assembly instructions of a Gear Reducer and related components.
 					</p>
 					<ul class="actions">
-						<li><a href="projects/icecfd.html" class="button next">Learn More</a></li>
+						<li><a href="projects/motorred.html" class="button next">Learn More</a></li>
 					</ul>
 				</div>
 			</div>
 		</section>
 	<section id="two" class="spotlights">
 		<section>
-			<a href="sobremi.html" class="image">
+			<a href="icecfd.html" class="image">
 				<img src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/ICECFD.jpg" alt=""
 					data-position="top center" />
 			</a>
@@ -51,7 +51,7 @@ nav-menu: true
 			</div>
 		</section>
 		<section>
-			<a href="sobremi.html" class="image">
+			<a href="wheelchair.html" class="image">
 				<img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/1.jpeg" alt=""
 					data-position="top center" />
 			</a>
@@ -71,7 +71,7 @@ nav-menu: true
 			</div>
 		</section>
 		<section>
-			<a href="volante.html" class="image">
+			<a href="steeringwheel.html" class="image">
 				<img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Image 2021-10-01 at 2.40.39 PM.jpeg"
 					alt="" data-position="center center" />
 			</a>
