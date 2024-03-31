@@ -54,13 +54,13 @@ nav-menu: false
 					<div class="10u"><span class="image fit"><img
 								src="https://cristianbassan.github.io/portfolio/assets/images/motorred/gears.jpeg"
 								alt="" /></span></div>
-					<div class="10u"><span class="image fit"><img
+					<div class="4u"><span class="image fit"><img
 								src="https://cristianbassan.github.io/portfolio/assets/images/motorred/section.jpeg"
 								alt="" /></span></div>
 					<div class="10u"><span class="image fit"><img
 								src="https://cristianbassan.github.io/portfolio/assets/images/motorred/drawing.png"
 								alt="" /></span></div>
-					<div class="10u"><span class="image fit"><img
+					<div class="4u"><span class="image fit"><img
 								src="https://cristianbassan.github.io/portfolio/assets/images/motorred/paramgear.png"
 								alt="" /></span></div>
 				</div>
