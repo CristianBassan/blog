@@ -13,86 +13,83 @@ nav-menu: true
 	<!-- Two -->
 	<section id="two" class="spotlights">
 
-		<section id="two" class="spotlights">
-			<section>
-				<a href="motorred.html" class="image">
-					<img src="https://cristianbassan.github.io/portfolio/assets/images/motorred/render.png" alt=""
-						data-position="top center" />
-				</a>
-				<div class="content">
-					<div class="inner">
-						<header class="major">
-							<h3>Gear Reducer</h3>
-						</header>
-						<p>Full Design and assembly instructions of a Gear Reducer and related components.
-						</p>
-						<ul class="actions">
-							<li><a href="projects/motorred.html" class="button next">Learn More</a></li>
-						</ul>
-					</div>
+		<section>
+			<a href="motorred.html" class="image">
+				<img src="https://cristianbassan.github.io/portfolio/assets/images/motorred/render.png" alt=""
+					data-position="top center" />
+			</a>
+			<div class="content">
+				<div class="inner">
+					<header class="major">
+						<h3>Gear Reducer</h3>
+					</header>
+					<p>Full Design and assembly instructions of a Gear Reducer and related components.
+					</p>
+					<ul class="actions">
+						<li><a href="projects/motorred.html" class="button next">Learn More</a></li>
+					</ul>
 				</div>
-			</section>
-			<section>
-				<a href="icecfd.html" class="image">
-					<img src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/ICECFD.jpg" alt=""
-						data-position="top center" />
-				</a>
-				<div class="content">
-					<div class="inner">
-						<header class="major">
-							<h3>ICE Air-Intake design and CFD</h3>
-						</header>
-						<p>Small displacement internal combustion engines from motorbikes are used to compete in go-kart
-							races all around the country. The fact that the air intake faces the rear of the vehicle
-							prompted me to design a duct that redirects the flow, taking advantage of the air's relative
-							speed and cooler temperatures to increase flow.
-						</p>
-						<ul class="actions">
-							<li><a href="projects/icecfd.html" class="button next">Learn More</a></li>
-						</ul>
-					</div>
-				</div>
-			</section>
-			<section>
-				<a href="wheelchair.html" class="image">
-					<img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/1.jpeg" alt=""
-						data-position="top center" />
-				</a>
-				<div class="content">
-					<div class="inner">
-						<header class="major">
-							<h3>Electric Wheelchair</h3>
-						</header>
-						<p>A special needs person's wheelchair broke, and due to elevated market prices of the
-							replacement
-							parts, it was decided by the Universidad Nacional del Nordeste to take in the project and
-							redesign and build the whole control and power circuits from the ground up. Maintaining the
-							original structure, wheels, motors and battery.</p>
-						<ul class="actions">
-							<li><a href="projects/wheelchair.html" class="button next">Learn More</a></li>
-						</ul>
-					</div>
-				</div>
-			</section>
-			<section>
-				<a href="steeringwheel.html" class="image">
-					<img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Image 2021-10-01 at 2.40.39 PM.jpeg"
-						alt="" data-position="center center" />
-				</a>
-				<div class="content">
-					<div class="inner">
-						<header class="major">
-							<h3>PC Gaming steering wheel</h3>
-						</header>
-						<p>A steering wheel I've designed and built for racing in online competitions. It has Force
-							Feedback
-							and it's been made using recycled components.</p>
-						<ul class="actions">
-							<li><a href="projects/steeringwheel.html" class="button next">Learn More</a></li>
-						</ul>
-					</div>
-				</div>
-			</section>
+			</div>
 		</section>
+		<section>
+			<a href="sobremi.html" class="image">
+				<img src="https://cristianbassan.github.io/portfolio/assets/images/cfd motor/ICECFD.jpg" alt=""
+					data-position="top center" />
+			</a>
+			<div class="content">
+				<div class="inner">
+					<header class="major">
+						<h3>ICE Air-Intake design and CFD</h3>
+					</header>
+					<p>Small displacement internal combustion engines from motorbikes are used to compete in go-kart
+						races all around the country. The fact that the air intake faces the rear of the vehicle
+						prompted me to design a duct that redirects the flow, taking advantage of the air's relative
+						speed and cooler temperatures to increase flow.
+					</p>
+					<ul class="actions">
+						<li><a href="projects/icecfd.html" class="button next">Learn More</a></li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		<section>
+			<a href="sobremi.html" class="image">
+				<img src="https://cristianbassan.github.io/portfolio/assets/images/silla ruedas/1.jpeg" alt=""
+					data-position="top center" />
+			</a>
+			<div class="content">
+				<div class="inner">
+					<header class="major">
+						<h3>Electric Wheelchair</h3>
+					</header>
+					<p>A special needs person's wheelchair broke, and due to elevated market prices of the replacement
+						parts, it was decided by the Universidad Nacional del Nordeste to take in the project and
+						redesign and build the whole control and power circuits from the ground up. Maintaining the
+						original structure, wheels, motors and battery.</p>
+					<ul class="actions">
+						<li><a href="projects/wheelchair.html" class="button next">Learn More</a></li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		<section>
+			<a href="volante.html" class="image">
+				<img src="https://cristianbassan.github.io/portfolio/assets/images/volante/WhatsApp Image 2021-10-01 at 2.40.39 PM.jpeg"
+					alt="" data-position="center center" />
+			</a>
+			<div class="content">
+				<div class="inner">
+					<header class="major">
+						<h3>PC Gaming steering wheel</h3>
+					</header>
+					<p>A steering wheel I've designed and built for racing in online competitions. It has Force Feedback
+						and it's been made using recycled components.</p>
+					<ul class="actions">
+						<li><a href="projects/steeringwheel.html" class="button next">Learn More</a></li>
+					</ul>
+				</div>
+			</div>
+		</section>
+	</section>
 
 </div>
